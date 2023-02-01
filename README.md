@@ -13,3 +13,5 @@ https://drive.google.com/file/d/1ls4q8ImFwRBJnOTd3-zA_-MMHRKwei1q/view?usp=share
 
 Please find below the Google drive link for the detailed documentation:
 https://drive.google.com/file/d/1pLSdm4RHPGlcEgrpi9bkOTdymIsJj0vv/view?usp=share_link
+
+Demonstration of the code and outputs are shown in zoom breakout room, hence no video attached.
